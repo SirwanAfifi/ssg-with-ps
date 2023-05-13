@@ -1,0 +1,4 @@
+build/*.html
+build/img
+img/*.jpg
+img/*.png
